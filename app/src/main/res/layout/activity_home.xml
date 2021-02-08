@@ -34,6 +34,7 @@
         android:id="@+id/btnCheckInternet"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:onClick="openActivityCheckConnection"
         android:text="@string/verificar_conexion"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"

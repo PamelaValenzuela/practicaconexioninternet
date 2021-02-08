@@ -3,4 +3,5 @@
     <string name="verificar_conexion">VERIFICAR CONEXION</string>
     <string name="est_es_nuestra_actividad_homeactivity_que_contiene_un_bot_n_para_verificar_el_acceso_a_internet">Está es nuestra actividad HomeActivity que contiene un botón para verificar el acceso a internet</string>
     <string name="saludo_home">saludo home</string>
+    <string name="conexi_n_establecida">Conexión establecida</string>
 </resources>
